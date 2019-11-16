@@ -1,2 +1,2 @@
-python-telegram-bot==12.2.0
+pyTelegramBotAPI==3.6.6
 emoji==0.5.4
